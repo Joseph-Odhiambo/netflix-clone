@@ -1,5 +1,14 @@
+# Netflix-Clone
+
+## Author
+> Joseph Odhiambo
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+To get the app run
+```bash
+git clone https://github.com/Joseph-Odhiambo/netflix-clone.git
+```
 ## Available Scripts
 
 In the project directory, you can run:
